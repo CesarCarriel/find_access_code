@@ -32,7 +32,7 @@ pipenv sync --dev
 Após a instalação das dependencias serem concluídas execute o seguinte comando para ativar o seu virtualenv:
 
 ```
-pipenv shell
+pipenv shell 
 ```
 
 ### Iniciar o projeto:
