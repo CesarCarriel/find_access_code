@@ -14,7 +14,7 @@ keylogs e internamente é executado um algoritmo que procura a chave de acesso e
 
 ## Como executar o projeto:
 
-### Instalar dependencias:
+### Instalar dependencias: 
 
 Para executar o projeto é necessario instalar o **Pipenv** utilizando o **pip** para instalação das dependecias do 
 projeto:
