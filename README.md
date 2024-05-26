@@ -26,7 +26,7 @@ pip install --user pipenv
 Agora para instalar as dependencias do projeto, execute:
 
 ```
-pipenv sync --dev
+pipenv sync --dev 
 ```
 
 Após a instalação das dependencias serem concluídas execute o seguinte comando para ativar o seu virtualenv:
